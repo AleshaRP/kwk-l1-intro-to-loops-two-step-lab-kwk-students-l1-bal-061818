@@ -9,6 +9,7 @@ def first_steps
   puts "Stop"
   sleep (1)
 end
+end
 
 def a_few_more_steps
   loop do
